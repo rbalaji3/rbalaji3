@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Rishikesh Balaji and I am a Junior at the University of Illinois at Urbana-Champaign, majoring in Computer Science & Mathematics. I previously interned at Gigamon and Wave Computing. I am interested in System Programming, CyberSecurity, and Distributed Systems. Here are some of my projects.
+
+- 📫 How to reach me: rbalaji3@illinois.edu
 <!--
 **rbalaji3/rbalaji3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
